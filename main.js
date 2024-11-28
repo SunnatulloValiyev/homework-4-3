@@ -465,3 +465,135 @@
 // else {
 //     console.log("Shart bajarilmadi.");
 // }
+
+
+//  41-misol
+
+// let a = +prompt("a ni kiriting:");
+// let b = +prompt("b ni kiriting:");
+// let c = +prompt("c ni kiriting:");
+
+// if (a <= b  && b <= c) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+// 42-misol
+
+// let a = +prompt("a ni kiriting:");
+// let b = +prompt("b ni kiriting:");
+// let c = +prompt("c ni kiriting:");
+
+// if ((a <= b && b <= c) || (c <= b && b <= a)) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+// 43-misol
+
+// let a = +prompt("a ni kiriting:");
+// let b = +prompt("b ni kiriting:");
+
+// if (a % 2 == 1 && b % 2 == 1) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+// 44-misol
+
+// let a = +prompt("a ni kiriting:");
+// let b = +prompt("b ni kiriting:");
+
+// if (a % 2 == 1 || b % 2 == 1) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+// 45-misol
+
+// let a = +prompt("a ni kiriting:");
+// let b = +prompt("b ni kiriting:");
+
+// if ((a % 2 == 1 && b % 2 == 0) || (a % 2 == 0 && b % 2 == 1)) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+// 46-misol
+
+// let a = +prompt("a ni kiriting:");
+// let b = +prompt("b ni kiriting:");
+
+// if ((a % 2 == 1 && b % 2 == 1) || (a % 2 == 0 && b % 2 == 0)) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+// 47-misol
+
+// let a = +prompt("a ni kiriting:");
+// let b = +prompt("b ni kiriting:");
+// let c = +prompt("c ni kiriting:");
+
+// if (a > 0 && b > 0 && c > 0) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+// 48-misol
+
+// let a = +prompt("a ni kiriting:");
+// let b = +prompt("b ni kiriting:");
+// let c = +prompt("c ni kiriting:");
+
+// if (a > 0 || b > 0 || c > 0) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
+
+// 49-misol
+
+// let a = +prompt("a ni kiriting:");
+// let b = +prompt("b ni kiriting:");
+// let c = +prompt("c ni kiriting:");
+
+// if ((a > 0 && b < 0 && c < 0) || (a < 0 && b > 0 && c < 0) || (a < 0 && b < 0 && c > 0)) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+
+// }
+
+// 50-misol
+
+// let a = +prompt("a ni kiriting:");
+// let b = +prompt("b ni kiriting:");
+// let c = +prompt("c ni kiriting:");
+
+// if ((a > 0 && b > 0 && c < 0) || (a > 0 && b < 0 && c > 0) || (a < 0 && b > 0 && c > 0)) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+
+// }
+
+// 51-misol
+
+// let num = +prompt("son kiriting:");
+
+// if (num > 0) {
+// }
+
+// if (num > 9 && num <= 99) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
